@@ -1,0 +1,2 @@
+.container{position:fixed;left:0;width:100vw}.container,.slide-wrapper{top:0;right:0;bottom:0;height:100vh}.slide-wrapper{position:absolute;overflow:hidden;white-space:nowrap;background-color:#2f4f4f;transition:all .5s ease-out;z-index:1}.slide{display:inline-block;width:100vw;height:100vh;background-position:50% 50%;background-repeat:no-repeat;background-size:contain}.navbutton{position:absolute;top:0;bottom:0;height:100vh;z-index:2}.navbutton-prev{left:0;width:34vw}.navbutton-next{right:0;width:66vw}
+/*# sourceMappingURL=/main.7e045ad1.css.map */
