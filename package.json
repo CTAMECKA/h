@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "./node_modules/.bin/parcel ./src/index.html --hmr-port 8080 --open",
-    "build": "./node_modules/.bin/parcel build ./src/index.html -d ./docs"
+    "build": "./node_modules/.bin/parcel build ./src/index.html -d ./docs --public-url ./"
   },
   "author": "",
   "license": "ISC",
